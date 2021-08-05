@@ -1,0 +1,12 @@
+C:\Users\herna\OneDrive\Área de Trabalho\Jogo_FPF\Jogo_FPF\bin\Debug\Jogo_FPF.exe.config
+C:\Users\herna\OneDrive\Área de Trabalho\Jogo_FPF\Jogo_FPF\bin\Debug\Jogo_FPF.exe
+C:\Users\herna\OneDrive\Área de Trabalho\Jogo_FPF\Jogo_FPF\bin\Debug\Jogo_FPF.pdb
+C:\Users\herna\OneDrive\Área de Trabalho\Jogo_FPF\Jogo_FPF\obj\Debug\Jogo_FPF.csprojAssemblyReference.cache
+C:\Users\herna\OneDrive\Área de Trabalho\Jogo_FPF\Jogo_FPF\obj\Debug\Jogo_FPF.Form1.resources
+C:\Users\herna\OneDrive\Área de Trabalho\Jogo_FPF\Jogo_FPF\obj\Debug\Jogo_FPF.Properties.Resources.resources
+C:\Users\herna\OneDrive\Área de Trabalho\Jogo_FPF\Jogo_FPF\obj\Debug\Jogo_FPF.csproj.GenerateResource.cache
+C:\Users\herna\OneDrive\Área de Trabalho\Jogo_FPF\Jogo_FPF\obj\Debug\Jogo_FPF.csproj.CoreCompileInputs.cache
+C:\Users\herna\OneDrive\Área de Trabalho\Jogo_FPF\Jogo_FPF\obj\Debug\Jogo_FPF.exe
+C:\Users\herna\OneDrive\Área de Trabalho\Jogo_FPF\Jogo_FPF\obj\Debug\Jogo_FPF.pdb
+C:\Users\herna\OneDrive\Área de Trabalho\Jogo_FPF\Jogo_FPF\obj\Debug\Jogo_FPF.Home.resources
+C:\Users\herna\OneDrive\Área de Trabalho\Jogo_FPF\Jogo_FPF\obj\Debug\Jogo_FPF.Jogo.resources
